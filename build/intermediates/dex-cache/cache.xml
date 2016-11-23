@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/magneta94/AndroidStudioProjects/Impressionist_Skeleton/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/magneta94/AndroidStudioProjects/Impressionist_Skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_b86ffa752d8cfd7c591512767d2804276361ea4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magneta94/AndroidStudioProjects/Impressionist_Skeleton/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/magneta94/AndroidStudioProjects/Impressionist_Skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_ff5de1392c1463d5ce59fb268172c82e00f38c82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magneta94/AndroidStudioProjects/Impressionist_Skeleton/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/magneta94/AndroidStudioProjects/Impressionist_Skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_3c1148df69cc2306f8749f433a5e7d614ad7e4fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magneta94/AndroidStudioProjects/Impressionist_Skeleton/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/magneta94/AndroidStudioProjects/Impressionist_Skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_af238d4f4b2892592371321e4806964b3faf9841/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magneta94/AndroidStudioProjects/Impressionist_Skeleton/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e7cd5355c3aab4d882da65a8d271b94bf615b68">
+        <dex dex="/Users/magneta94/AndroidStudioProjects/Impressionist_Skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_24eef0fab5fe60a36c6ba6c277b1379bfa899918/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magneta94/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/magneta94/AndroidStudioProjects/Impressionist_Skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_7305d507426550c782c30cabfae41aa02323cf2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magneta94/AndroidStudioProjects/Impressionist_Skeleton/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/magneta94/AndroidStudioProjects/Impressionist_Skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_7d6f0e9c48a2bf05207720f36e95963b58c031e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magneta94/AndroidStudioProjects/Impressionist_Skeleton/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94cb2e94abcbb29549475c64155ba75d5d3761ff">
+        <dex dex="/Users/magneta94/AndroidStudioProjects/Impressionist_Skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_144af3f8d99fde65dd8245add208ee00d319782b/classes.dex" />
+    </item>
+
+</items>
